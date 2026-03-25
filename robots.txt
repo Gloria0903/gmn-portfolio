@@ -1,0 +1,8 @@
+# robots.txt — Gloria Njeru Portfolio
+# https://glorianjeruport.vercel.app/
+
+User-agent: *
+Allow: /
+
+# Point crawlers to the sitemap
+Sitemap: https://glorianjeruport.vercel.app/sitemap.xml
